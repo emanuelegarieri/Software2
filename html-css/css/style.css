@@ -1,166 +1,58 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap");
 
-* {
-  box-sizing: border-box;
-}
-
 body {
   margin: 0;
-  background-color: #111111;
-  color: #f5f0e6;
+  padding: 0 2rem;
   font-family: "Raleway", Arial, sans-serif;
-  line-height: 1.5;
+  background-color: #111;
+  color: #f5f0e6;
 }
 
-header,
-main,
-footer {
-  max-width: 1100px;
-  margin: 0 auto;
+img {
+  max-width: 100%;
 }
 
-header {
-  background-color: #111111;
+main {
+  display: flex;
+  flex-direction: column;
+  background-color: #191919;
+  padding: 1rem;
 }
 
-nav {
+header img {
+  width: 120px;
+}
+
+header nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.75rem 2rem;
 }
 
-.logo {
-  width: 120px;
-  height: 70px;
-  object-fit: contain;
+a {
+  color: #c69a4b;
 }
 
-nav div {
+h1 {
+  text-align: center;
+}
+
+.solutions-grid,
+.contact-layout {
   display: flex;
   gap: 2rem;
 }
 
-nav a {
-  color: #f5f0e6;
-  padding: 0.6rem 0.9rem;
-  border-bottom: 2px solid transparent;
-  text-decoration: none;
-}
-
-nav a:hover,
-nav a.current {
-  background-color: #333333;
-  border-bottom-color: #c69a4b;
-  color: #f5f0e6;
-}
-
-main {
-  min-height: 650px;
-  padding: 2rem;
-  background-color: #191919;
-}
-
-h1 {
-  margin-top: 0;
-  font-size: 2.4rem;
-}
-
-.home-page h1,
-.solutions-page h1 {
-  text-align: center;
-}
-
-.hero-image,
-.intro-image {
-  display: block;
-  width: 100%;
-  object-fit: cover;
-}
-
-.hero-image {
-  height: 420px;
-}
-
-.intro-image {
-  height: 260px;
-}
-
-.home-intro,
-.solutions-intro {
-  max-width: 760px;
-  margin: 1.5rem auto;
-  text-align: center;
-}
-
-.solutions-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-  margin-top: 2rem;
-}
-
-.solutions-grid h2 {
-  margin-top: 0;
-  font-size: 1.8rem;
+article {
+  flex: 1;
+  min-width: 0;
 }
 
 figure {
   margin: 0;
 }
 
-figure img {
-  display: block;
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
-  border-radius: 8px;
-}
-
-figcaption {
-  margin-top: 0.4rem;
-  color: #c69a4b;
-  font-style: italic;
-}
-
-.contact-layout {
-  display: flex;
-  align-items: flex-start;
-  gap: 2rem;
-}
-
-.contact-info {
-  width: 35%;
-}
-
-address {
-  font-style: normal;
-}
-
-.contact-info a {
-  color: #c69a4b;
-}
-
 .map-image {
-  width: 65%;
-  height: 380px;
+  width: 60%;
   object-fit: cover;
-}
-
-.evidence-page {
-  max-width: 900px;
-}
-
-.evidence-page section {
-  margin: 1.5rem 0;
-  padding: 1rem;
-  border-left: 5px solid #c69a4b;
-  background-color: #262626;
-}
-
-footer {
-  padding: 1rem 2rem;
-  background-color: #111111;
-  color: #f5f0e6;
-  text-align: center;
 }
