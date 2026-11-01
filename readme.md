@@ -21,10 +21,10 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### HTML and CSS: company website (7.16 / 8 points)
+### HTML and CSS: company website (7.58 / 8 points)
 
 - 1. Company website: ✔ completed, 4/4 test points (`html-css/index.html`)
 - 2. Get feedback from the HTML+CSS checker: ✔ completed, 1/1 test points (`html-css/`)
-- 3. Publish, push and submit your links: ◐ partially completed, 2.16/3 test points
+- 3. Publish, push and submit your links: ◐ partially completed, 2.58/3 test points
 
 <!-- metropolia:progress:end -->
