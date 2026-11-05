@@ -1,2 +1,2 @@
 https://users.metropolia.fi/~emanuelg/js-1-2/
-https://github.com/emanuelegarieri/Software2
+https://github.com/emanuelegarieri/Software2/tree/main/js-1-2
