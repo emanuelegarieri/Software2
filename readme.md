@@ -1,19 +1,9 @@
-# Software 2 assignments
+# Software 2
+Emanuele Garieri
 
-**Your Name**
-
-One folder per module (`module-09` for Python, `js-1` for JavaScript), and one folder per assignment inside the JavaScript
-modules (`js-1/assignment-1/assignment-1.html` and `assignment-1.js`; JS module 3 uses the starter ZIP's names),
-as the course material asks. Upload the JavaScript module folders to users.metropolia.fi and push this folder to GitHub.
-
-## My links at users.metropolia.fi
-
-- JS module 1: https://users.metropolia.fi/~username/js-1/
-- JS module 2: https://users.metropolia.fi/~username/js-2/
-- JS module 3: https://users.metropolia.fi/~username/js-3/
-- JS module 4: https://users.metropolia.fi/~username/js-4/
-
-Add notes about any problems or extra features here.
+- HTML/CSS: https://users.metropolia.fi/~emanuelg/html-css/
+- JavaScript 1–2: https://users.metropolia.fi/~emanuelg/js-1-2/
+- GitHub: https://github.com/emanuelegarieri/Software2
 
 <!-- metropolia:progress:start -->
 
@@ -27,7 +17,7 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 2. Get feedback from the HTML+CSS checker: ✔ completed, 1/1 test points (`html-css/`)
 - 3. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS modules 1 and 2: Interactive programs and control structures (27 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (28.75 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`)
@@ -39,5 +29,6 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 8. Leap years in a list: ✔ completed, 3/3 test points (`js-1-2/assignment-8/assignment-8.js`)
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
+- 11. Publish, push and submit your links: ◐ partially completed, 1.75/3 test points
 
 <!-- metropolia:progress:end -->
